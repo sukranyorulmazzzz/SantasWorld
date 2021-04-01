@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 435dfedd1af3db64eac9c6dbbaf1c140
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animasyoncum: {instanceID: 0}
+  - text_altin_miktari: {instanceID: 0}
+  - oyun_sonu_altin_miktari: {instanceID: 0}
+  - pnl_oyun_sonu: {instanceID: 0}
+  - pnl_oyun_basi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
